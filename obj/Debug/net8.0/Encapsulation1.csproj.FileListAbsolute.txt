@@ -1,0 +1,14 @@
+/Users/emrahelis/Encapsulation1/bin/Debug/net8.0/Encapsulation1
+/Users/emrahelis/Encapsulation1/bin/Debug/net8.0/Encapsulation1.deps.json
+/Users/emrahelis/Encapsulation1/bin/Debug/net8.0/Encapsulation1.runtimeconfig.json
+/Users/emrahelis/Encapsulation1/bin/Debug/net8.0/Encapsulation1.dll
+/Users/emrahelis/Encapsulation1/bin/Debug/net8.0/Encapsulation1.pdb
+/Users/emrahelis/Encapsulation1/obj/Debug/net8.0/Encapsulation1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Encapsulation1/obj/Debug/net8.0/Encapsulation1.AssemblyInfoInputs.cache
+/Users/emrahelis/Encapsulation1/obj/Debug/net8.0/Encapsulation1.AssemblyInfo.cs
+/Users/emrahelis/Encapsulation1/obj/Debug/net8.0/Encapsulation1.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Encapsulation1/obj/Debug/net8.0/Encapsulation1.dll
+/Users/emrahelis/Encapsulation1/obj/Debug/net8.0/refint/Encapsulation1.dll
+/Users/emrahelis/Encapsulation1/obj/Debug/net8.0/Encapsulation1.pdb
+/Users/emrahelis/Encapsulation1/obj/Debug/net8.0/Encapsulation1.genruntimeconfig.cache
+/Users/emrahelis/Encapsulation1/obj/Debug/net8.0/ref/Encapsulation1.dll
